@@ -1,0 +1,13 @@
+alias	alias_tab_LZC
+  IDLE		0		NULL
+  ACCU		1		NULL
+  FINISH		2		NULL
+  S0		3		NULL
+endalias
+
+alias	alias_tab_gcd
+  IDLE		0		NULL
+  CACL		1		NULL
+  FINISH		2		NULL
+endalias
+

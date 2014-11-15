@@ -1,0 +1,6 @@
+alias	alias_tab_gcd
+  IDLE		0		NULL
+  CACL		1		NULL
+  FINISH		2		NULL
+endalias
+
